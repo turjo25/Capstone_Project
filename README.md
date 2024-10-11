@@ -24,7 +24,7 @@ Items with validity greater than 30 days will have a 20% discount applied.
 The system automatically loads items from a file when it starts and saves any updates before exiting.
 
 ### File Structure
-__item.txt:__ This file stores the details of all items added to the system, and is read when the program starts and updated when items are added, deleted, or updated.
+<u>__item.txt:__</u> This file stores the details of all items added to the system, and is read when the program starts and updated when items are added, deleted, or updated.
 
 ## Adding Items
 Choose from various categories like grocery, fruits, bakery, etc.
